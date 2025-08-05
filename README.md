@@ -11,4 +11,4 @@ This is a custom-built WordPress theme
   - Footer phone, email, address
   - Social media links
 - Page content fully manageable via WordPress admin
-- Custom styling using the "Brown" font as specified
+- Custom styling using the "Brown" font
