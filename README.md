@@ -1,4 +1,4 @@
-# Studio14 - Custom WordPress Theme
+# Custom WordPress Theme
 
 This is a custom-built WordPress theme
 
